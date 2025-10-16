@@ -1,0 +1,9 @@
+{
+	"name": "dfazureprojectadarsh",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f2e7d394-f1cc-40f3-83d4-bc82ed75cde2",
+		"tenantId": "c9237ff6-ca3c-4e92-ad8d-4b975afb663a"
+	}
+}
